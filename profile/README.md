@@ -6,6 +6,44 @@
 
 
 Python do zero ao tratamento de dados.
+---
+## 📚 Livros de referência
+
+Esta trilha foi construída com base em livros amplamente utilizados no ensino de Python, algoritmos e análise de dados. Eles servem como referência para a organização dos conteúdos, exemplos e exercícios presentes neste repositório.
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+<img src="https://github.com/user-attachments/assets/9bbe1ca1-808e-4acf-84ca-48e9610df89f" width="170"><br><br>
+
+<strong>Introdução à Programação com Python (4ª edição)</strong><br>
+Nilo Ney Coutinho Menezes
+</td>
+
+<td align="center" width="33%">
+<img src="https://github.com/user-attachments/assets/7e9e9f47-9fe8-4701-a90f-f0bad6ffb774" width="170"><br><br>
+
+<strong>Estruturas de Dados e Algoritmos com Python</strong><br>
+Basant Agarwal
+</td>
+
+<td align="center" width="33%">
+<img src="https://github.com/user-attachments/assets/cca2cbc4-9fe6-452f-8129-3ee2b67d3258" width="170"><br><br>
+
+<strong>Python para Análise de Dados (3ª edição)</strong><br>
+Wes McKinney
+</td>
+
+
+</tr>
+</table>
+
+<p align="center">
+<sub>
+As referências são utilizadas para apoiar a elaboração do material didático. Os direitos autorais das obras pertencem aos respectivos autores e editoras.
+</sub>
+</p>
 
 ---
 
